@@ -1,0 +1,10 @@
+
+// menghitung akar persamaan kuadrat
+//
+// Fakta
+// "Persamaan Kuadrat" : ax^2+bx+c=0
+
+// Algoritma
+// 1. input data (a, b, c)
+// 2.akar persamaan kuadrat : ax^2+bx+c=0
+// 3. output "Persamaan Kuadrat"
